@@ -7,4 +7,8 @@ Develop2 Branch Change
 Main branch Local Change
 Main Branch Remote Change
 
+
 Main Branch Branch Conflict
+
+Develop Branch Branch Conflict
+
